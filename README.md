@@ -3,8 +3,8 @@
 
 Сверстать страницу календаря в соответствии с макетом ниже.  
 Серверную часть программировать не обязательно.  
-Результат разместите на GitHub и в письме пришлите ссылку на GitHub pages.
-![](mockups/Calendar-HW-01.png)
+Результат разместите на GitHub и в письме пришлите ссылку на репозиторий.
+![](Calendar-HW-01.png)
 
 Требования к заданию:
 * Необходимо решить задание с использованием: Angular2 (TypeScript, WebPack2), Pug (ex-Jade), Stylus, Jeet Grid или FlexBox, Autoprefixer
@@ -17,13 +17,13 @@
 ### Примеры дополнительной логики работы
 
 Добавление события
-![](mockups/Calendar-HW-05.png)
+![](Calendar-HW-05.png)
 
 Быстрое добавление события
-![](mockups/Calendar-HW-02.png)
+![](Calendar-HW-02.png)
 
 Просмотр события + редактирование описания
-![](mockups/Calendar-HW-04.png)
+![](Calendar-HW-04.png)
 
 Поиск:
-![](mockups/Calendar-HW-07.png)
+![](Calendar-HW-07.png)
